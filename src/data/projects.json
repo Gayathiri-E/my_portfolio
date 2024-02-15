@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Random Password Generator",
+    "imageSrc": "projects/project.png",
+    "description": "Developed the JavaFX-based Random Password Generator code for efficient and user-friendly password creation and scenebuilder for UI.",
+    "skills": ["JavaFx", "SceneBuilder"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Gayathiri-E/Random-password-generator-using-JavaFx"
+  },
+  {
+    "title": "Spam Alert System",
+    "imageSrc": "projects/project.png",
+    "description": "Designed a Machine Learning-powered Spam Alert System during the Kavach Hackathon, featuring a user-friendly interface created with Streamlit for seamless interaction.",
+    "skills": ["Machine Learning"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Gayathiri-E/Spam-Classifier"
+  },
+  {
+    "title": "Restaurent Management System",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a comprehensive RMS using HTML, CSS, and JavaScript, seamlessly integrated with MongoDB for efficient data storage and retrieval.",
+    "skills": ["React", "MERN stack"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

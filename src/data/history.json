@@ -1,0 +1,28 @@
+[
+  {
+    "role": "Achievements",
+    "organisation": "Schooling",
+    "experiences": ["School Topper", "Awarded Merit Scholarship for academic performance in the year of 2021"],
+    "imageSrc": "history/1.jpg"
+  },
+  {
+    "role": "Soft Skills",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Team Work", "Time Management","Communication"],
+    "imageSrc": "history/2.jpg"
+  },
+  {
+    "role": "Area of Interest",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Full Stack",
+      "Cloud Computing",
+      "Machine Learning"
+    ],
+    "imageSrc": "history/3.jpg"
+  }
+]
